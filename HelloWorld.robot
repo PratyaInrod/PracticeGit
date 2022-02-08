@@ -11,7 +11,7 @@ Default Tags   feature-helloworld
 
 
 *** Variables ***
-${Greeting} =   Hello World
+${Greeting} =   Hello World Gig edited
 ${STRING} =  cat
 ${NUMBER} =  ${1}
 ${NUMBERString} =  1
