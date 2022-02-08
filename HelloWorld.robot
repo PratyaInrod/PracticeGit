@@ -12,7 +12,7 @@ Default Tags   feature-helloworld
 
 *** Variables ***
 ${Greeting} =   Hello World Gig edited
-${STRING} =  cat
+${STRING} =  dog
 ${NUMBER} =  ${1}
 ${NUMBERString} =  1
 @{LIST} =  one   two   ${100}
