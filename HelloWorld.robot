@@ -17,7 +17,7 @@ ${NUMBER} =  ${1}
 ${NUMBERString} =  1
 @{LIST} =  one   two   ${100}
 &{DICTIONARY} =  string=${STRING}   number=${NUMBER}   list=@{LIST}
-
+${Momo}     Cat
 
 
 *** Test Cases ***
